@@ -6,4 +6,8 @@ Repository for course material + my assignment reports as I ran out of space in 
 
 2 worst assignments out of 10 were dropped, did 9 and ignored the last week's assignment. Resulting assignment average grade: 97.625%
 
+Term paper grade: 94.5%
+
+Overall grade: 96.0625%; Letter grade: A
+
 Assignment matlab scripts themselves are not included for obvious reasons.
